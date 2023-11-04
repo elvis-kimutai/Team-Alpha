@@ -1,8 +1,9 @@
 # [Team_alpha] Vision Board
 
 ## Introduction
+The government and donors have focused majorly on schools in urban centers in terms of financia support, thus leaving schools in rural areas in neglection
 
-
+![](https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX3906913.jpg)
 ## Needs
 
 
@@ -52,30 +53,25 @@ Ensuring safe and reliable transportation for students.
 
 Community Engagement 🏘️🤝
 Involving the community in the school's development and activities.
-![](https://storage.googleapis.com/proudcity/elgl/uploads/2018/10/FatalSolidKakapo-small.gif)
+![community](https://storage.googleapis.com/proudcity/elgl/uploads/2018/10/FatalSolidKakapo-small.gif)
 Infrastructure Improvement 🏗️🏫
 
 Upgrading school buildings and facilities.
-
+![upgrade](https://media.tenor.com/images/c1b336b1ab4f993f86c1d116077c9c83/tenor.gif)
 Curriculum Enhancement 📖✏️
 
 Tailoring the curriculum to meet local needs and interests.
 
-
+![curriculum](https://assets.sutori.com/user-uploads/image/4fed2149-bb26-40c4-83d4-da96beb5aad5/7165b08b4c35dd8f8b636760cc846498.gif)
 Mentorship Programs 👫👬
 
 Pairing students with mentors for guidance and support.
-
+![pairing](https://media.giphy.com/media/zcxNrvePgTAPK/200.gif)
 
 Access to Healthcare 🏥🚑
 
 Ensuring students have access to healthcare services.
-
-
-Agricultural Education 🌾🌱
-
-Integrating agriculture and vocational training.
-
+![](https://media.giphy.com/media/xT5LMGDxHanmqPyqrK/giphy.gif)
 
 Grants and Funding 💰🎓
 
