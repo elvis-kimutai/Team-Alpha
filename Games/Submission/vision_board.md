@@ -1,4 +1,4 @@
-# [Team_Name] Vision Board
+# [Team_alpha] Vision Board
 
 ## Introduction
 
@@ -11,5 +11,5 @@
 
 ## product
 
-
 ## solution
+
