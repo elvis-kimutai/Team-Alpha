@@ -31,20 +31,20 @@ Ensuring safe and reliable transportation for students.
 
 Community Engagement 🏘️🤝
 Involving the community in the school's development and activities.
-![](https://storage.googleapis.com/proudcity/elgl/uploads/2018/10/FatalSolidKakapo-small.gif)
+![community](https://storage.googleapis.com/proudcity/elgl/uploads/2018/10/FatalSolidKakapo-small.gif)
 Infrastructure Improvement 🏗️🏫
 
 Upgrading school buildings and facilities.
-
+![upgrade](https://media.tenor.com/images/c1b336b1ab4f993f86c1d116077c9c83/tenor.gif)
 Curriculum Enhancement 📖✏️
 
 Tailoring the curriculum to meet local needs and interests.
 
-
+![curriculum](https://assets.sutori.com/user-uploads/image/4fed2149-bb26-40c4-83d4-da96beb5aad5/7165b08b4c35dd8f8b636760cc846498.gif)
 Mentorship Programs 👫👬
 
 Pairing students with mentors for guidance and support.
-
+![pairing](https://media.giphy.com/media/zcxNrvePgTAPK/200.gif)
 
 Access to Healthcare 🏥🚑
 
