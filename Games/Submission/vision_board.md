@@ -1,8 +1,9 @@
 # [Team_alpha] Vision Board
 
 ## Introduction
+The government and donors have focused majorly on schools in urban centers in terms of financia support, thus leaving schools in rural areas in neglection
 
-
+![](https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX3906913.jpg)
 ## Needs
 
 
@@ -49,12 +50,7 @@ Pairing students with mentors for guidance and support.
 Access to Healthcare 🏥🚑
 
 Ensuring students have access to healthcare services.
-
-
-Agricultural Education 🌾🌱
-
-Integrating agriculture and vocational training.
-
+![](https://media.giphy.com/media/xT5LMGDxHanmqPyqrK/giphy.gif)
 
 Grants and Funding 💰🎓
 
