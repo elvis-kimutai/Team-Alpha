@@ -1,25 +1,21 @@
-# [Team_Name] Vision Board
+# [Team_alpha] Vision Board
 
 ## Introduction
-Insert a meme/image that represents your team's motivation and inspiration for participating in Game of Learners Season 4.
+
+
+## Needs
+
 
 ## Goals
-- Insert a meme/image that represents your team's primary goal for Game of Learners
-- Insert a meme/image that represents your team's secondary goal for Game of Learners
-- Insert a meme/image that represents your team's stretch goal for Game of Learners
-Skills
-- Insert a meme/image that represents the skills you want to learn and develop during Game of Learners
-- Insert a meme/image that represents the skills you want to improve during Game of Learners
 
-## Collaboration
-- Insert a meme/image that represents your team's communication and collaboration strategy for Game of Learners
-- Insert a meme/image that represents your team's approach to giving and receiving feedback during Game of Learners
 
-## Success
-- Insert a meme/image that represents what success in Game of Learners looks like for your team
-- Insert a meme/image that represents the rewards and benefits of achieving your team's goals in Game of Learners
+## product
 
-## Conclusion
-- Insert a meme/image that represents your team's excitement and enthusiasm for Game of Learners
+## This is a platform where people can donate books for kids in rural areas
+![Book Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fbook-donation&psig=AOvVaw3kD4IiZQYAjhhEMdzQlYgV&ust=1699178460142000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCJiv-peLqoIDFQAAAAAdAAAAABAE)
+## This platform also has a feature for different payement integrations for people to donate money
+![Payment Donation](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Fdonation-website&psig=AOvVaw1Yq93kGfGrLdmKKLA599ce&ust=1699178810527000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCMCXwr-MqoIDFQAAAAAdAAAAABAE)
 
-Feel free to modify and customize this template as needed to fit your specific team's goals and objectives! But this is just a guide on what you can inlude in the board
+
+## solution
+
